@@ -1,7 +1,7 @@
 {
   "displayType": 3,
   "intervals": [
-    86400000
+    1000
   ],
   "layoutType": 1,
   "startAt": 1,
