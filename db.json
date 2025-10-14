@@ -1,0 +1,21 @@
+{
+  "config": {
+    "contextualPromo": {
+      "bts": {
+        "promotePlaylist": {
+          "displayType": 3,
+          "intervals": [
+            86400000
+          ],
+          "layoutType": 1,
+          "startAt": 1,
+          "timesPerSession": 999,
+          "repeatEvery": 1,
+          "streamPrvlRatio": 0.2,
+          "downloadPrvlRatio": 0.2,
+          "downloadNewRelPrvlRatio": 0.2,
+        }
+      }
+    }
+  }
+}
